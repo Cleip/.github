@@ -11,10 +11,10 @@
 <p><strong>We build the intelligence behind better decisions.</strong></p>
 
 <p>
-  <!-- Keep badges few and functional — links, not vanity metrics. -->
-  <a href="https://cleip.com"><img alt="Website" src="https://img.shields.io/badge/website-cleip.com-000000?style=flat-square"></a>
-  <a href="https://docs.cleip.com"><img alt="Docs" src="https://img.shields.io/badge/docs-read-blue?style=flat-square"></a>
-  <a href="https://github.com/cleip"><img alt="Follow" src="https://img.shields.io/github/followers/cleip?style=flat-square&label=follow&color=222222"></a>
+  <a href="https://cleip.com"><img alt="Website" src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://docs.cleip.com"><img alt="Docs" src="https://img.shields.io/badge/Docs-111111?style=flat-square&logo=readme&logoColor=white"></a>
+  <a href="https://github.com/cleip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/company/cleip"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 </div>

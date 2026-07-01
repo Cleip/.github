@@ -6,9 +6,9 @@
 <h1>Welcome to Cleip</h1>
 <p><strong>We build the intelligence behind better decisions.</strong></p>
 <p>
-  <a href="https://cleip.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://docs.cleip.com"><img alt="Docs" src="https://img.shields.io/badge/DOCS-6366F1?style=for-the-badge&logo=readme&logoColor=white"></a>
-  <a href="https://www.linkedin.com/company/cleip/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://cleip.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-15302D?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://docs.cleip.com"><img alt="Docs" src="https://img.shields.io/badge/DOCS-15302D?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/cleip/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-15302D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 </div>
 <br>

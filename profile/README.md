@@ -28,12 +28,6 @@ Cleip turns data into decisions. We combine data science, AI, and software engin
 
 
 <div align="center">
-  <sub>
-    <a href="https://cleip.com">Website</a> ·
-    <a href="https://docs.cleip.com">Docs</a> ·
-    <a href="https://twitter.com/cleip">X</a> ·
-    <a href="mailto:hello@cleip.com">Contact</a>
-  </sub>
-  <br><br>
+
   <sub>© 2026 Cleip, Inc.</sub>
 </div>

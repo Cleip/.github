@@ -2,31 +2,22 @@
   Cleip — GitHub organization profile README
   Path in your .github repo: profile/README.md
 -->
-
 <div align="center">
-
-
-
 <h1>Welcome to Cleip</h1>
 <p><strong>We build the intelligence behind better decisions.</strong></p>
-
 <p>
   <a href="https://cleip.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://docs.cleip.com"><img alt="Docs" src="https://img.shields.io/badge/DOCS-6366F1?style=for-the-badge&logo=readme&logoColor=white"></a>
-  <a href="https://github.com/cleip"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/cleip/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
 </div>
-
 <br>
 
 ## What we're building
+
 Cleip turns data into decisions. We combine data science, AI, and software engineering to help organizations understand their markets, customers, competitors, and themselves — and then we build the tools that put that understanding to work.
 
 <br>
-
-
 <div align="center">
-
   <sub>© 2026 Cleip, Inc.</sub>
 </div>

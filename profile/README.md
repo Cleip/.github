@@ -25,10 +25,7 @@
 <br>
 
 ## What we're building
-
-<!-- 👉 2–3 sentences, plain language. What problem, for whom, why it matters.
-     Avoid buzzwords. A newcomer should understand you in ten seconds. -->
-Cleip turns data into decisions. We combine data science, AI, and software engineering to help organizations understand their markets, their customers, and themselves — and then we build the tools that put that understanding to work.
+Cleip turns data into decisions. We combine data science, AI, and software engineering to help organizations understand their markets, customers, competitors, and themselves — and then we build the tools that put that understanding to work.
 
 <br>
 

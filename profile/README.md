@@ -88,5 +88,5 @@ We welcome contributions of every size — code, docs, bug reports, ideas.
     <a href="mailto:hello@cleip.com">Contact</a>
   </sub>
   <br><br>
-  <sub>© 2026 Cleip</sub>
+  <sub>© 2026 Cleip, Inc.</sub>
 </div>

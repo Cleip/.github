@@ -11,7 +11,7 @@
 <h1>Welcome to Cleip</h1>
 
 <!-- 👉 One line. Say what you do, not what you are. -->
-<p><strong>The clean way to &lt;do the thing Cleip does&gt;.</strong></p>
+<p><strong>We build the intelligence behind better decisions.</strong></p>
 
 <p>
   <!-- Keep badges few and functional — links, not vanity metrics. -->

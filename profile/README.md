@@ -1,7 +1,6 @@
 <!--
   Cleip — GitHub organization profile README
   Path in your .github repo: profile/README.md
-  Swap the placeholders marked with 👉 and you're done.
 -->
 
 <div align="center">
@@ -9,8 +8,6 @@
 
 
 <h1>Welcome to Cleip</h1>
-
-<!-- 👉 One line. Say what you do, not what you are. -->
 <p><strong>We build the intelligence behind better decisions.</strong></p>
 
 <p>
@@ -29,53 +26,6 @@ Cleip turns data into decisions. We combine data science, AI, and software engin
 
 <br>
 
-## Projects
-
-<!-- 👉 Lead with your flagship. Link the repo, give a one-line pitch, show status. -->
-
-| Project | What it does | Status |
-|---|---|---|
-| **[flagship-repo](https://github.com/cleip/flagship-repo)** | The one thing people come here for. | 🟢 Active |
-| **[second-repo](https://github.com/cleip/second-repo)** | Supporting tool or library. | 🟢 Active |
-| **[experiment](https://github.com/cleip/experiment)** | Something early / exploratory. | 🟡 Beta |
-
-<br>
-
-## Get started
-
-```bash
-# 👉 The fastest path to "it works on my machine"
-npm install @cleip/flagship
-```
-
-Full walkthrough in the **[docs](https://docs.cleip.com)**.
-
-<br>
-
-## Get involved
-
-We welcome contributions of every size — code, docs, bug reports, ideas.
-
-- 🐛 **Found a bug?** [Open an issue](https://github.com/cleip/flagship-repo/issues/new)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/orgs/cleip/discussions)
-- 🔧 **Want to build?** Read our [contributing guide](https://github.com/cleip/.github/blob/main/CONTRIBUTING.md)
-
-<br>
-
-<details>
-<summary><strong>More about Cleip</strong></summary>
-
-<br>
-
-<!-- 👉 Optional depth lives here so the top stays clean.
-     Team, values, roadmap link, hiring, whatever's true. -->
-- **Team** — &lt;who you are&gt;
-- **Roadmap** — [what's next](https://github.com/orgs/cleip/projects)
-- **We're hiring** — [open roles](https://cleip.com/careers)
-
-</details>
-
-<br>
 
 <div align="center">
   <sub>

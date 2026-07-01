@@ -6,14 +6,9 @@
 
 <div align="center">
 
-<!-- Logo: dark/light aware. Replace both URLs with your own assets. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleip/.github/main/assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleip/.github/main/assets/logo-light.svg">
-  <img alt="Cleip" src="https://raw.githubusercontent.com/cleip/.github/main/assets/logo-light.svg" width="180">
-</picture>
 
-<h1>Cleip</h1>
+
+<h1>Welcome to Cleip</h1>
 
 <!-- 👉 One line. Say what you do, not what you are. -->
 <p><strong>The clean way to &lt;do the thing Cleip does&gt;.</strong></p>
